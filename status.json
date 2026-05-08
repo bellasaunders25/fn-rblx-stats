@@ -1,6 +1,6 @@
 {
   "serversOnline": false,
-  "errorTitle": "PROFILE QUERY FAILED",
-  "errorMessage": "Servers are currently offline for maintenance.",
+  "errorTitle": "UNABLE TO CONNECT TO FORTNITE SERVERS.",
+  "errorMessage": "Please try again later.",
   "version": "v40.30 (53093531)"
 }
